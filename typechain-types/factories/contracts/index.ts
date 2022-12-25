@@ -3,4 +3,3 @@
 /* eslint-disable */
 export * as erc20TokensSol from "./ERC20Tokens.sol";
 export { AMM__factory } from "./AMM__factory";
-export { Lock__factory } from "./Lock__factory";

@@ -4,4 +4,5 @@
 import type * as erc20TokensSol from "./ERC20Tokens.sol";
 export type { erc20TokensSol };
 export type { AMM } from "./AMM";
-export type { Lock } from "./Lock";
+
+

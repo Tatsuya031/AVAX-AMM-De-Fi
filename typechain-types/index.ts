@@ -18,5 +18,4 @@ export type { JOEToken } from "./contracts/ERC20Tokens.sol/JOEToken";
 export { JOEToken__factory } from "./factories/contracts/ERC20Tokens.sol/JOEToken__factory";
 export type { USDCToken } from "./contracts/ERC20Tokens.sol/USDCToken";
 export { USDCToken__factory } from "./factories/contracts/ERC20Tokens.sol/USDCToken__factory";
-export type { Lock } from "./contracts/Lock";
-export { Lock__factory } from "./factories/contracts/Lock__factory";
+
